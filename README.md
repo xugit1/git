@@ -1,4 +1,4 @@
 # hello
 
-This repository is managed with Git and hosted on GitHub.
+《原神》是米哈游开发的开放世界冒险游戏。玩家将扮演旅行者，在提瓦特大陆探索七国，使用元素之力战斗，结识众多伙伴，逐步揭开世界背后的秘密。游戏以精美画面与自由探索玩法广受全球玩家喜爱。
 genshin impact
